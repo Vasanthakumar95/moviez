@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="splashScreen" parent="Theme.AppCompat.Light">
+
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+        <item name="android:statusBarColor">@color/colorBackground</item>
+
+    </style>
+
+    <style name="ThemeOverlay.Search" parent="ThemeOverlay.AppCompat">
+        <!-- Primary brand color. -->
+        <item name="android:editTextColor">@color/colorTextLight</item>
+        <item name="android:textColorHint">@color/colorTextLight</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

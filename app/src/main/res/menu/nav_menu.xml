@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+
+    <item
+        android:id="@+id/movieFilterFragment"
+        android:title="@string/Filter"
+        android:icon="@drawable/ic_baseline_filter_list_24"
+        />
+
+    <item
+        android:id="@+id/bookingFragment"
+        android:title="@string/Booking"
+        android:icon="@drawable/ic_purchase_tickets"
+        />
+
+</menu>

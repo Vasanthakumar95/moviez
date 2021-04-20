@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        app:cardBackgroundColor="#19E1E2EA"
+        app:cardCornerRadius="@dimen/_10sdp"
+        app:cardElevation="@dimen/_1sdp">
+
+        <TextView
+            android:id="@+id/tv_moviez_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxEms="10"
+            android:maxLines="2"
+            android:padding="@dimen/_10sdp"
+            android:text="Category"
+            android:textColor="@color/colorTextLight"
+            android:textSize="@dimen/_11ssp" />
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

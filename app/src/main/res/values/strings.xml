@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Moviez</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome!</string>
+    <string name="ct">Categories</string>
+    <string name="listing">Popular Listing</string>
+    <string name="runtime">133 Minutes</string>
+
+    <string name="Home">Home</string>
+    <string name="Filter">Filter</string>
+    <string name="Details">Details</string>
+    <string name="Booking">Booking</string>
+    <string name="movie_booking">Movie Ticket Bookings</string>
+
+    <string name="Synopsis">Set on the small island of Porto Buio, the traditional live Christmas Nativity scene might not go ahead because the baby who’s always played Jesus has grown up and no new babies have been born on the</string>
+</resources>
