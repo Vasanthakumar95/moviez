@@ -1,5 +1,3 @@
-## Fave Technical Assignment
-
 ### Moviez
 - [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines?gclid=CjwKCAjwj6SEBhAOEiwAvFRuKKXAVffTbMzF5R2cZYPvXRCR-cnlfgjncIxXBK59y9m86KftO_aqdBoCoS0QAvD_BwE&gclsrc=aw.ds)
 - [MVVM Architecture & ViewModel](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwj6SEBhAOEiwAvFRuKHuHt1pTUyslihJ4oyClRc4S3v-ZD24xObP0sz972zFaZGvGcAaleBoCIJMQAvD_BwE&gclsrc=aw.ds)
