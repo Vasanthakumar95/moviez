@@ -8,7 +8,7 @@
 - Retrofit 
 - Dagger Hilt
 - Glide 
-- SmoothBottomBar [link](https://github.com/ibrahimsn98/SmoothBottomBar)
+- [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
 
 ### UI
 ### **Home page** 
